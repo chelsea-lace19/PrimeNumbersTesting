@@ -1,0 +1,13 @@
+C:\Users\callen6\source\repos\Lab4.3_TestingPractice\Lab4.3_Program\bin\Debug\netcoreapp3.1\Lab4.3_Program.exe
+C:\Users\callen6\source\repos\Lab4.3_TestingPractice\Lab4.3_Program\bin\Debug\netcoreapp3.1\Lab4.3_Program.deps.json
+C:\Users\callen6\source\repos\Lab4.3_TestingPractice\Lab4.3_Program\bin\Debug\netcoreapp3.1\Lab4.3_Program.runtimeconfig.json
+C:\Users\callen6\source\repos\Lab4.3_TestingPractice\Lab4.3_Program\bin\Debug\netcoreapp3.1\Lab4.3_Program.runtimeconfig.dev.json
+C:\Users\callen6\source\repos\Lab4.3_TestingPractice\Lab4.3_Program\bin\Debug\netcoreapp3.1\Lab4.3_Program.dll
+C:\Users\callen6\source\repos\Lab4.3_TestingPractice\Lab4.3_Program\bin\Debug\netcoreapp3.1\Lab4.3_Program.pdb
+C:\Users\callen6\source\repos\Lab4.3_TestingPractice\Lab4.3_Program\obj\Debug\netcoreapp3.1\Lab4.3_Program.csprojAssemblyReference.cache
+C:\Users\callen6\source\repos\Lab4.3_TestingPractice\Lab4.3_Program\obj\Debug\netcoreapp3.1\Lab4.3_Program.AssemblyInfoInputs.cache
+C:\Users\callen6\source\repos\Lab4.3_TestingPractice\Lab4.3_Program\obj\Debug\netcoreapp3.1\Lab4.3_Program.AssemblyInfo.cs
+C:\Users\callen6\source\repos\Lab4.3_TestingPractice\Lab4.3_Program\obj\Debug\netcoreapp3.1\Lab4.3_Program.csproj.CoreCompileInputs.cache
+C:\Users\callen6\source\repos\Lab4.3_TestingPractice\Lab4.3_Program\obj\Debug\netcoreapp3.1\Lab4.3_Program.dll
+C:\Users\callen6\source\repos\Lab4.3_TestingPractice\Lab4.3_Program\obj\Debug\netcoreapp3.1\Lab4.3_Program.pdb
+C:\Users\callen6\source\repos\Lab4.3_TestingPractice\Lab4.3_Program\obj\Debug\netcoreapp3.1\Lab4.3_Program.genruntimeconfig.cache
